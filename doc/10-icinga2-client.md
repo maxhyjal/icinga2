@@ -694,7 +694,7 @@ You can `list` and `remove` existing blacklists:
 
 > **Note**
 >
-> The blacklist feature only prevents future updates from existing objects, but it does not kill already added objects (You will still see them on Icingaweb2)
+> The blacklist feature only prevents future updates from existing objects, but it does not kill already added objects (You will still see them on Icingaweb2).
 > The `--zone` and `--host` arguments are required. A zone is always where the remote client is in.
 > If you are unsure about it, set a wildcard (`*`) for them and filter only by host/services.
 
